@@ -3,3 +3,6 @@
 
 # BASE URL
 http://api.weatherapi.com/v1/
+
+# Animated Icons
+https://basmilius.github.io/weather-icons/index-fill.html
