@@ -5,4 +5,5 @@
 http://api.weatherapi.com/v1/
 
 # Animated Icons
+https://github.com/basmilius/weather-icons
 https://basmilius.github.io/weather-icons/index-fill.html
